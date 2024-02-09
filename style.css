@@ -44,58 +44,5 @@ text-align: center;
 
 a {
     text-decoration: none;
-    color: lightslategray; /
-}
-
-
-nav {
-    color: lightslategrey;
-    font-family: sans-serif;
-    background-color: rgb(27, 26, 26);
-}
-
-
-
-#Main{
-    display: block;
-    margin: auto;
-    text-align: center;
-    border-color: black;
-    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(43,44,47,1) 35%, rgba(4,4,39,1) 100%);
-}
-
-#Intrests{
-    display: block;
-    margin: auto;
-    text-align: center;
-}
-
-hr {
-    height: 10px;
-    color: black;
-}
-
-#Skills{
-    display: block;
-    margin: auto;
-    text-align: center;
-}
-
-#Social-Media{
-    display: block;
-    margin: auto;
-    text-align: center;
-}
-
-button{
-    color: gray;
-    background-color: rgb(53, 46, 46);
-    display: block;
-    margin: auto;
-}
-
-#other-websites{
-    display: block;
-    margin: auto;
-    text-align: center;
+    color: lightslategray; /* Set the desired color */
 }
