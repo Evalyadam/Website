@@ -93,3 +93,9 @@ button{
     display: block;
     margin: auto;
 }
+
+#other-websites{
+    display: block;
+    margin: auto;
+    text-align: center;
+}
